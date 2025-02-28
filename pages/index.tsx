@@ -40,7 +40,7 @@ export default function HomePage() {
                 color: "white",
               }}
             >
-              参加 MBTI 性格测试 
+              MBTI 性格测试 
             </Highlight>
           </Heading>
           <Text
@@ -62,7 +62,7 @@ export default function HomePage() {
         </Flex>
         <Image
           alt="illustration"
-          src={`/images/home-bottom.png`}
+          src={`./images/home-bottom.png`}
           width={100}
           height={100}
           style={{

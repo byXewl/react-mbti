@@ -15,7 +15,7 @@ export default function Footer() {
       alignItems="center"
     >
       <Text>
-        look云图 & react{" "}
+        更多公众号：look云图 {" "}
         <Link
           href="/MBTI-personality-test.pdf"
           target="_blank"
