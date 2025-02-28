@@ -6,6 +6,7 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
+  basePath: '/react-mbti', // 替换为你的仓库名称，发布部署用
 }
 
 module.exports = nextConfig

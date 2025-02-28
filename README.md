@@ -7,15 +7,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export', // 设置为 'export' 以启用静态导出
+  basePath: '/react-mbti', // 替换为你的仓库名称，发布部署用
   // 其他配置...
 };
 
 module.exports = nextConfig;
 2. 运行 next build
 node高版本，在设置 output: 'export' 后，运行以下命令来构建项目：
+yarn
 yarn run next build
-或者直接运行：
-next build
+
 这将生成静态导出所需的文件，并将它们输出到 out 文件夹中。
 ```
 
