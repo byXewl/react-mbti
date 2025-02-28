@@ -32,7 +32,7 @@ export default function TestInstructions(props: TestInstructionsProps) {
             这些问题没有正确答案。
           </ListItem>
           <ListItem>
-            快速回答问题，不要过度分析。有些可能措辞不当，选择你感觉最合适的答案。
+            快速回答问题，不要过度分析。由于来源国外机翻，有些可能措辞不当，选择你感觉最合适的答案。
           </ListItem>
           <ListItem>
             根据“你实际的情况”回答问题，而不是“你希望别人如何看待你”。
